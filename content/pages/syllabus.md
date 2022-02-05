@@ -51,19 +51,189 @@ This course will be graded Pass/Fail. Grading will be based on reading the assig
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction of instructor and students and course overview | &nbsp; |
-| 2 | The vulnerability of mtDNA and consequences of oxidative damage | &nbsp; |
-| 3 | Repair of 8-oxoG from the mitochondrial genome: The importance of OGG1 and base excision repair pathways | &nbsp; |
-| 4 | The mitochondrial theory of aging and the importance of OGG1 | &nbsp; |
-| 5 | Mouse models for mtDNA mutation and aging | &nbsp; |
-| 6 | Oxidative damage and base excision repair in Alzheimer's disease | &nbsp; |
-| 7 | mtDNA deletions in neurons and the importance of oxidative phosphorylation | &nbsp; |
-| 8 | Quality control of mtDNA: The bottleneck and mitochondrial fusion | &nbsp; |
-| 9 | From yeast to humans: Conservation of Pol γ | Written paper due |
-| 10 | Determination of nuclear encoded genes that contribute to mitochondrial disorders | &nbsp; |
-| 11 | Field trip to the [Laboratory of Vamsi Mootha at Massachusetts General Hospital](http://mootha.med.harvard.edu/) | &nbsp; |
-| 12 | mtDNA in cancer and chemotherapeutic resistance | &nbsp; |
-| 13 | Levels of ROS in the mitochondria of cancer cells | &nbsp; |
-| 14 | Oral presentations | Oral presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction of instructor and students and course overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The vulnerability of mtDNA and consequences of oxidative damage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Repair of 8-oxoG from the mitochondrial genome: The importance of OGG1 and base excision repair pathways
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The mitochondrial theory of aging and the importance of OGG1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Mouse models for mtDNA mutation and aging
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Oxidative damage and base excision repair in Alzheimer's disease
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+mtDNA deletions in neurons and the importance of oxidative phosphorylation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Quality control of mtDNA: The bottleneck and mitochondrial fusion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+From yeast to humans: Conservation of Pol γ
+{{< tdclose >}}
+{{< tdopen >}}
+Written paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Determination of nuclear encoded genes that contribute to mitochondrial disorders
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the [Laboratory of Vamsi Mootha at Massachusetts General Hospital](http://mootha.med.harvard.edu/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+mtDNA in cancer and chemotherapeutic resistance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Levels of ROS in the mitochondria of cancer cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -56,7 +56,7 @@ The vulnerability of mtDNA and consequences of oxidative damage
 
 ### Paper 1
 
-Richter, C., J. W. Park, and B. Ames. "Normal Oxidative Damage to Mitochondrial DNA is Extensive." _PNAS_ 85 (1988): 6465-67. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pnas.org/content/85/17/6465.full.pdf))
+Richter, C., J. W. Park, and B. Ames. "Normal Oxidative Damage to Mitochondrial DNA is Extensive." _PNAS_ 85 (1988): 6465-67. ([PDF](http://www.pnas.org/content/85/17/6465.full.pdf))
 
 ### Paper 2
 
@@ -172,7 +172,7 @@ Wang J., S. Xiong, C. Xie, W. R. Markesberry, and M. A. Lovell. "[Increased Oxid
 
 ### Paper 2
 
-Weissman L., J. Dong-Gyu, M. M. Sorensn, N. C. de Souza-Pinto, W. R. Merkesberry, M. P. Mattson, and V. A. Bohr. "Defective DNA Base Excision Repair in Brain from Individuals with Alzheimer's Disease and Amnestic Mild Cognitive Impairment." _Nucleic Acids Research_ 35 (2007): 5545-55. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://nar.oxfordjournals.org/content/35/16/5545.full.pdf))
+Weissman L., J. Dong-Gyu, M. M. Sorensn, N. C. de Souza-Pinto, W. R. Merkesberry, M. P. Mattson, and V. A. Bohr. "Defective DNA Base Excision Repair in Brain from Individuals with Alzheimer's Disease and Amnestic Mild Cognitive Impairment." _Nucleic Acids Research_ 35 (2007): 5545-55. ([PDF](http://nar.oxfordjournals.org/content/35/16/5545.full.pdf))
 
 
 {{< tdclose >}}
